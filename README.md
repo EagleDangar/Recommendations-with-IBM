@@ -2,16 +2,17 @@
 
 ### Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [About](#about)
-- [Requiremnts](#requiremnts)
-- [File Descriptions](#file-descriptions)
+- [Recommendations With IBM (NLP and Recommendation Engine)](#recommendations-with-ibm-nlp-and-recommendation-engine)
+    - [Table of Contents](#table-of-contents)
+    - [About](#about)
+    - [Requiremnts](#requiremnts)
+    - [File Descriptions](#file-descriptions)
 
 <a name="about"></a>
 
 ### About
 
-This is a Udacity project. In this project we are going to help IBM student community to get the best recommendations of articles based on the historical interactions data between users and articles. 
+In this project we are going to help IBM student community to get the best recommendations of articles based on the historical interactions data between users and articles.
 
 we are also making sure that new users also get good recommendations with our recommendation system , so to in this project we implemented all the different types of recommendation systems using Natural Language Processing (NLP).
 
